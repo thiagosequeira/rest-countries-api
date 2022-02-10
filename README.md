@@ -37,7 +37,7 @@ Users should be able to:
 
 ### More about me
 
-- Portfolio - [Thiago Sequeira](https://www.thiagosequeira.vercel.app)
+- Portfolio - [Thiago Sequeira](https://thiagosequeira.vercel.app/)
 
 ## Download ⚙️
 
